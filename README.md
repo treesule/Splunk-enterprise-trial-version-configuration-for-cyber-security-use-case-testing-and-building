@@ -1,0 +1,1 @@
+# Splunk-enterprise-trial-version-configuration-for-cyber-security-use-case-testing-and-building
