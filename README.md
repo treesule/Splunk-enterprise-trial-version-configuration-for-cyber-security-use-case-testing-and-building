@@ -16,6 +16,6 @@
 
 ![](images/splunk3.JPG)
 
-* Create administrator account for splunk encryption login and click next 
+* Create administrator account for Splunk Enterprise login and click next 
 
 ![](images/splunk4.JPG)
