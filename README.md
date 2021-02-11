@@ -4,6 +4,6 @@
 
 ![](images/splunk.JPG)
 
-* Install the downloaded Splunk Enterpris file
+* Install the downloaded Splunk Enterpris file, check the box to accept the license and click on customization button
 
 ![](images/splunk1.JPG)
